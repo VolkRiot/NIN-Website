@@ -1,0 +1,84 @@
+#title_div{
+    text-align: center;
+    position: fixed;
+    left:0;
+    right:0;
+    top: 0;
+    background-color: white;
+    display: block;
+    height: 80px;
+}
+#title_text_container{
+    display: block;
+    margin-left: 0;
+    height: 61px;
+    bottom: -10%;
+    border-top-color: white;
+    border-top-width: 0;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+img.albumImg{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.imgContainer{
+    background-color: black;
+    display: block;
+    margin: -10px;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#bio_title{
+    text-align: center;
+}
+
+#player{
+    align-content: space-around;
+}
+
+#logo_container{
+    float: left;
+}
+
+ol{
+    margin-left: -7%;
+}
+#header_text{
+    text-align: left;
+    margin-left: 15%;
+    margin-bottom: 15%;
+    font-size-adjust: 2.6;
+}
+#membersContainer{
+    display: block;
+    float: left;
+    width:25%;
+}
+#videoContainer{
+    float: left;
+    display: block;
+    width:50%;
+    overflow:hidden;
+}
+#tableContainer{
+    float: left;
+    width: 25%;
+}
+#songHeader{
+    text-align: center;
+}
+
